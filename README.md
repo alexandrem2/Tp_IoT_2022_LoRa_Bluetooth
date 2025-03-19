@@ -1,6 +1,6 @@
 # Tp_IoT_2022_LoRa_Bluetooth
 
-Ce TP est à réaliser à deux groupes.
+Ce TP a été réalisé par Mathurin BERDER et Alexandre MERCERON.
 
 ## 1. Mise en place
 
