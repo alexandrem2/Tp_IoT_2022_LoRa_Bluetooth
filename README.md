@@ -11,8 +11,9 @@ cf. [https://docs.espressif.com/projects/esp-idf/en/v5.4/esp32/get-started/index
 Documentation de la board: [http://www.smartcomputerlab.org/](http://www.smartcomputerlab.org/)
 
 ### 2. Se connecter sur un point d'accès Wifi
-
 ### 3. Envoyer un message mqtt sur le broker test.mosquitto.org au topic tp/alban
+![image](https://github.com/user-attachments/assets/9150e34f-6da9-40a6-8395-5e106af972e6)
+
 
 ## 2. LoRa
 
