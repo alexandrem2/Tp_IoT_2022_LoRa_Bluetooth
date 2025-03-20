@@ -21,9 +21,9 @@ Documentation de la board: [http://www.smartcomputerlab.org/](http://www.smartco
 
 ### 2. Communiquer via mqtt des données
 
-Groupe 1: Envoyer un message mqtt donnant les valeurs nécessaires à une reception via LoRa.
-
 Groupe 2. Ecouter les messages mqtt en en déduire les valeurs pour un envoi de données via Lora.
+![image](https://github.com/user-attachments/assets/d840e111-902f-488d-826d-b96163acb560)
+
 
 ### 3. Communiquer via LoRa des données
 
