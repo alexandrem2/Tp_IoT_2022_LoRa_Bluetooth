@@ -27,9 +27,13 @@ Groupe 2. Ecouter les messages mqtt en en déduire les valeurs pour un envoi de 
 
 ### 3. Communiquer via LoRa des données
 
-Groupe 1: Écouter les messages LoRa et les afficher.
-
 Groupe 2. Envoyer un message LoRa contenant des données (potentiellement en utilisant un caoteur.
+
+Envoi du mot de passe choisi :
+![image](https://github.com/user-attachments/assets/07500f27-fe8a-42df-b89e-f1b7f051a166)
+
+Réception du Groupe 1 :
+
 
 ## 3. Inversion
 
