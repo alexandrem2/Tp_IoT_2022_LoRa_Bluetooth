@@ -10,14 +10,15 @@ cf. [https://docs.espressif.com/projects/esp-idf/en/v5.4/esp32/get-started/index
 
 Documentation de la board: [http://www.smartcomputerlab.org/](http://www.smartcomputerlab.org/)
 
-### 2. Se connecter sur un point d'accès Wifi
-### 3. Envoyer un message mqtt sur le broker test.mosquitto.org au topic tp/alban
+### Connection sur un point d'accès Wifi et envoi d'un message mqtt sur le broker test.mosquitto.org au topic tp/alban
 ![image](https://github.com/user-attachments/assets/9150e34f-6da9-40a6-8395-5e106af972e6)
 
 
 ## 2. LoRa
 
 ### 1. Définir des valeurs communes (à faire au tableau)
+Topic : SALAD
+mdp : POTATOTO
 
 ### 2. Communiquer via mqtt des données
 
@@ -32,20 +33,11 @@ Groupe 2. Ecouter les messages mqtt en en déduire les valeurs pour un envoi de 
 
 Consigne : Envoyer un message LoRa contenant des données
 
+Pour nous distinguer de l'autre groupe communiquant avec Dorian et Amandine on décide de choisir le mot de passe : "DODO JTM"
 Envoi du mot de passe choisi :
 
 ![image](https://github.com/user-attachments/assets/07500f27-fe8a-42df-b89e-f1b7f051a166)
 
 Réception du Groupe 1 (Dorian et Amandine) :
 ![image](https://github.com/user-attachments/assets/b11b743f-fc76-4e9d-9360-8cfc2abb4bf8)
-
-
-## 3. Inversion
-
-Après avoir réussi une communication, la carte du groupe 1 et celle du groupe 2 inversent leurs rôles.
-
-## 4. Bluetooth (ou BLE)
-
-À la place de communiquer les valeurs venant d'un capteur, continuer la discussion pour ouvrir un canal Bluetooth.
-
 
