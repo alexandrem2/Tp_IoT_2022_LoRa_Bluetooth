@@ -33,6 +33,11 @@ Groupe 2. Ecouter les messages mqtt en en déduire les valeurs pour un envoi de 
 
 Consigne : Envoyer un message LoRa contenant des données
 
+Au départ on envoie le message reçu en MQTT en LoRa :
+
+![image](https://github.com/user-attachments/assets/c2994ce3-192a-4398-8e8e-ef543a8f3ab3)
+
+
 Pour nous distinguer de l'autre groupe communiquant avec Dorian et Amandine on décide de choisir le mot de passe : "DODO JTM"
 
 Envoi du mot de passe choisi :
